@@ -1,8 +1,6 @@
 Theory + Lab/Cases
 Theory + Lab/Datasets
 *.zip
-*.csv
-*.xlsx
 *.ini
 *.tmp
 *.json
